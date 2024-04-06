@@ -1,4 +1,4 @@
-<img src="https://github.com/ravepossum/ravepossum.github.io/assets/145081120/13a53003-06d7-4c4c-bc9a-5817d0edf028" alt="ravepossum avatar" width="200"/>  
+<img src="https://github.com/ravepossum/ravepossum.github.io/assets/145081120/4bfd34f0-1020-41fa-ab5e-1e74cd22c039" alt="ravepossum avatar" width="600"/>  
 
 # RavePossum
 

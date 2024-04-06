@@ -1,4 +1,7 @@
+<img src="https://github.com/ravepossum/ravepossum.github.io/assets/145081120/13a53003-06d7-4c4c-bc9a-5817d0edf028" alt="ravepossum avatar" width="200"/>  
+
 # RavePossum
+
 This page is a compilation of my open-source gen3/4 hacking work.
 
 **NONE OF MY WORK WILL EVER BE FOR SALE OR PROFIT**

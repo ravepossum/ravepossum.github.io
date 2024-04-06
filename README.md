@@ -77,10 +77,10 @@ This page is a compilation of my open-source gen3/4 hacking work.
 # Other content
 
 ## [Team Aqua's Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
-- [Vanilla+ battle backgrounds](https://ravepossum.github.io/#vanilla+_battle_backgrounds)
-- [FRLG overworld sprites for pokeemerald](https://ravepossum.github.io/#FRLG_overworld_sprites_for_pokeemerald)
+- [VanillaPlus battle backgrounds](https://ravepossum.github.io/#vanillaplus_battle_backgrounds)
+- [FRLG overworld sprites for pokeemerald](https://ravepossum.github.io/#frlg_overworld_sprites_for_pokeemerald)
     
-### [Vanilla+ battle backgrounds](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/tree/main/Battle%20Backgrounds/RavePossum)
+### [VanillaPlus battle backgrounds](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/tree/main/Battle%20Backgrounds/RavePossum)
 - These are a set of battle backgrounds for Emerald based on combining the aesthetics of the Gen 4 battle platforms with the Gen 3 battle backgrounds. They borrow heavily from Ruki's battle BGs.
 - See the `README.MD` in the Asset Repo for more details.
 
@@ -107,4 +107,4 @@ The goals of the hack are as follows:
 
 # Contact
 
-If you have any questions about my work, you can reach me on discord @ravepossum.
+If you find any bugs or have any questions about my work, you can reach me on discord @ravepossum.

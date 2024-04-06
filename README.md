@@ -4,19 +4,19 @@ This page is a compilation of my open-source gen3/4 hacking work.
 **NONE OF MY WORK WILL EVER BE FOR SALE OR PROFIT**
 
 # Quick access
-- [pokeemerald branches](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#pokeemerald)   
-- [pokemerald-expansion branches](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#pokeemerald-expansion)    
-- [pokefirered branches](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#pokefirered)   
-- [pokeplatinum branches](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#pokeplatinum) 
-- [Other content](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#other-content)   
-- [Personal projects](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#personal-projects)   
-- [Contact](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#contact)   
+- [pokeemerald branches](https://ravepossum.github.io/#pokeemerald)   
+- [pokemerald-expansion branches](https://ravepossum.github.io/#pokeemerald-expansion)    
+- [pokefirered branches](https://ravepossum.github.io/#pokefirered)   
+- [pokeplatinum branches](https://ravepossum.github.io/#pokeplatinum) 
+- [Other content](https://ravepossum.github.io/#other-content)   
+- [Personal projects](https://ravepossum.github.io/#personal-projects)   
+- [Contact](https://ravepossum.github.io/#contact)   
 
 # Feature Branches
 
 ## [pokeemerald](https://github.com/ravepossum/pokeemerald)
-- [bsbob_map_popups](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#bsbob_map_popups)
-- [expansion_flags_fix](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#expansion_flags_fix)
+- [bsbob_map_popups](https://ravepossum.github.io/#bsbob_map_popups)
+- [expansion_flags_fix](https://ravepossum.github.io/#expansion_flags_fix)
 
 ### [bsbob_map_popups](https://github.com/ravepossum/pokeemerald/tree/bsbob_map_popups)
 
@@ -31,8 +31,8 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - This is **NOT** a feature branch, and is not intended to be used as anything other than a development tool.
 
 ## [pokeemerald-expansion](https://github.com/ravepossum/pokeemerald-expansion)
-- [hgss_dex_darkest_mode](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#hgss_dex_darkest_mode)
-- [showmonpicshiny](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#showmonpicshiny)
+- [hgss_dex_darkest_mode](https://ravepossum.github.io/#hgss_dex_darkest_mode)
+- [showmonpicshiny](https://ravepossum.github.io/#showmonpicshiny)
 
 ### [hgss_dex_darkest_mode](https://github.com/ravepossum/pokeemerald-expansion/tree/hgss_dex_darkest_mode)
 - This adds a *darkest* mode to the HGSS Pokedex and refactors the color modes of the HGSS dex to make it a bit easier to add new color schemes.
@@ -44,10 +44,10 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - This is a simple example branch to demonstrate how to add an optional parameter to `showmonpic` for showing a picture of a shiny mon.
 
 ## [pokefirered](https://github.com/ravepossum/pokefirered)
-- [debug_suite](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#debug_suite)
-- [debug_menu](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#debug_menu)
-- [pokemon_debug_menu](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#pokemon_debug_menu)
-- [battle_debug_menu](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#battle_debug_menu)
+- [debug_suite](https://ravepossum.github.io/#debug_suite)
+- [debug_menu](https://ravepossum.github.io/#debug_menu)
+- [pokemon_debug_menu](https://ravepossum.github.io/#pokemon_debug_menu)
+- [battle_debug_menu](https://ravepossum.github.io/#battle_debug_menu)
 
 ### [debug_suite](https://github.com/ravepossum/pokefirered/tree/debug_suite)
 - This includes all 3 debug menu branches listed below ported from [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion). Credits for all original functionality go to TheXaman and the contributors to pokeemerald-expansion in RHH. 
@@ -69,7 +69,7 @@ This page is a compilation of my open-source gen3/4 hacking work.
 ![battle_debug_demonstration](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/1421f327-be44-4b83-b17d-e6b38a6eb39d)
 
 ## [pokeplatinum](https://github.com/ravepossum/pokeplatinum)
-- [enhancements](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#enhancements)
+- [enhancements](https://ravepossum.github.io/#enhancements)
   
 ### [enhancements](https://github.com/ravepossum/pokeplatinum/tree/enhancements)
 - This is a *very* WIP branch for adding basic QoL enhancements to pokeplatinum.
@@ -77,8 +77,8 @@ This page is a compilation of my open-source gen3/4 hacking work.
 # Other content
 
 ## [Team Aqua's Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
-- [Vanilla+ battle backgrounds](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#vanilla+_battle_backgrounds)
-- [FRLG overworld sprites for pokeemerald](https://github.com/ravepossum/ravepossum.github.io/edit/main/README.md#FRLG_overworld_sprites_for_pokeemerald)
+- [Vanilla+ battle backgrounds](https://ravepossum.github.io/#vanilla+_battle_backgrounds)
+- [FRLG overworld sprites for pokeemerald](https://ravepossum.github.io/#FRLG_overworld_sprites_for_pokeemerald)
     
 ### [Vanilla+ battle backgrounds](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/tree/main/Battle%20Backgrounds/RavePossum)
 - These are a set of battle backgrounds for Emerald based on combining the aesthetics of the Gen 4 battle platforms with the Gen 3 battle backgrounds. They borrow heavily from Ruki's battle BGs.

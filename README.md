@@ -79,7 +79,7 @@ This page is a compilation of my open-source gen3/4 hacking work.
 
 # Other content
 
-## [Contributions to Team Aqua's Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
+## Contributions to [Team Aqua's Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
 - [VanillaPlus battle backgrounds](https://ravepossum.github.io/#vanillaplus_battle_backgrounds)
 - [FRLG overworld sprites for pokeemerald](https://ravepossum.github.io/#frlg_overworld_sprites_for_pokeemerald)
     

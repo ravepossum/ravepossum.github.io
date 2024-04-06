@@ -11,7 +11,9 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - [pokemerald-expansion branches](https://ravepossum.github.io/#pokeemerald-expansion)    
 - [pokefirered branches](https://ravepossum.github.io/#pokefirered)   
 - [pokeplatinum branches](https://ravepossum.github.io/#pokeplatinum) 
-- [Other content](https://ravepossum.github.io/#other-content)   
+- [Other content](https://ravepossum.github.io/#other-content)
+    - [Assets](https://ravepossum.github.io/#contributions-to-team-aqua-asset-repo)
+    - [Common Decomp Errors and How To Solve Them](https://ravepossum.github.io/#common-decomp-errors-and-how-to-solve-them)  
 - [Personal projects](https://ravepossum.github.io/#personal-projects)   
 - [Contact](https://ravepossum.github.io/#contact)   
 
@@ -79,7 +81,7 @@ This page is a compilation of my open-source gen3/4 hacking work.
 
 # Other content
 
-## Contributions to [Team Aqua's Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
+## Contributions to [Team Aqua Asset Repo](https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
 - [VanillaPlus battle backgrounds](https://ravepossum.github.io/#vanillaplus_battle_backgrounds)
 - [FRLG overworld sprites for pokeemerald](https://ravepossum.github.io/#frlg_overworld_sprites_for_pokeemerald)
     
@@ -95,7 +97,10 @@ This page is a compilation of my open-source gen3/4 hacking work.
     - All sprites are named like the original file and in the right location (every single vanilla overworld NPC sprite is included, besides unused sprites)
     - Some sprites have been altered or recolored to more closely match the original sprites
 - See the `README.MD` in the Asset Repo for more details.
-  
+
+## [Common Decomp Errors and How To Solve Them](https://github.com/ravepossum/pokeemerald/wiki/Common-Decomp-Errors-(and-How-to-Solve-Them))
+- This is a page to assist with troubleshooting common errors you may encounter while working with gen 3 decomp projects.
+ 
 # Personal projects
 
 ## [Emerald Beyond](https://github.com/ravepossum/emeraldextra)

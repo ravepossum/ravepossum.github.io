@@ -50,7 +50,7 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - [hgss_dex_darkest_mode](https://ravepossum.github.io/#hgss_dex_darkest_mode)
 - [showmonpicshiny](https://ravepossum.github.io/#showmonpicshiny)
 
-### [bw_summary_screen](https://github.com/ravepossum/pokeemerald-expansion/wiki#bw_summary_screen_expansion)
+### [bw_summary_screen_expansion](https://github.com/ravepossum/pokeemerald-expansion/wiki#bw_summary_screen_expansion)
 
 ![bwsummaryscreendemo1](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/a5806973-7ac5-451b-9973-65fd0187503f)
 ![bwsummaryscreendemo2](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/fb9f562f-e693-432d-b4d5-16bd75c35ee4)

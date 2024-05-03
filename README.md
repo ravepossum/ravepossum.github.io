@@ -20,8 +20,18 @@ This page is a compilation of my open-source gen3/4 hacking work.
 # Feature Branches
 
 ## [pokeemerald](https://github.com/ravepossum/pokeemerald)
+- [bw_summary_screen](https://ravepossum.github.io/#bw_summary_screen)
 - [bsbob_map_popups](https://ravepossum.github.io/#bsbob_map_popups)
 - [expansion_flags_fix](https://ravepossum.github.io/#expansion_flags_fix)
+
+### [bw_summary_screen](https://github.com/ravepossum/pokeemerald/wiki#bw_summary_screen)
+
+![bwsummaryscreendemo1](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/a5806973-7ac5-451b-9973-65fd0187503f)
+![bwsummaryscreendemo2](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/fb9f562f-e693-432d-b4d5-16bd75c35ee4)
+![bwsummaryscreendemo3](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/3d5e6573-33c8-42db-9bef-c4d490bf9bef)
+
+- This is a demake of the Gen 5 summary screen with some extra configuration and features. Please see the wiki link in the header hyperlink above for more information and credits.
+- If you're using pokeemerald-expansion, you'll need to use [the expansion version](https://ravepossum.github.io/#bw_summary_screen_expansion) instead.
 
 ### [bsbob_map_popups](https://github.com/ravepossum/pokeemerald/tree/bsbob_map_popups)
 
@@ -36,8 +46,18 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - This is **NOT** a feature branch, and is not intended to be used as anything other than a development tool.
 
 ## [pokeemerald-expansion](https://github.com/ravepossum/pokeemerald-expansion)
+- [bw_summary_screen_expansion](https://ravepossum.github.io/#bw_summary_screen_expansion)
 - [hgss_dex_darkest_mode](https://ravepossum.github.io/#hgss_dex_darkest_mode)
 - [showmonpicshiny](https://ravepossum.github.io/#showmonpicshiny)
+
+### [bw_summary_screen](https://github.com/ravepossum/pokeemerald-expansion/wiki#bw_summary_screen_expansion)
+
+![bwsummaryscreendemo1](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/a5806973-7ac5-451b-9973-65fd0187503f)
+![bwsummaryscreendemo2](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/fb9f562f-e693-432d-b4d5-16bd75c35ee4)
+![bwsummaryscreendemo3](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/3d5e6573-33c8-42db-9bef-c4d490bf9bef)
+
+- This is a demake of the Gen 5 summary screen with some extra configuration and features. Please see the wiki link in the header hyperlink above for more information and credits.
+- If you're using vanilla pokeemerald, you'll need to use [the vanilla version](https://ravepossum.github.io/#bw_summary_screen) instead.
 
 ### [hgss_dex_darkest_mode](https://github.com/ravepossum/pokeemerald-expansion/tree/hgss_dex_darkest_mode)
 - This adds a *darkest* mode to the HGSS Pokedex and refactors the color modes of the HGSS dex to make it a bit easier to add new color schemes.

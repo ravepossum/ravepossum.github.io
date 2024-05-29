@@ -94,7 +94,7 @@ This page is a compilation of my open-source gen3/4 hacking work.
 
 ![battle_debug_demonstration](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/1421f327-be44-4b83-b17d-e6b38a6eb39d)
 
-#### [sbird_multichoice](https://github.com/ravepossum/pokefirered/tree/sbird_multichoice)
+### [sbird_multichoice](https://github.com/ravepossum/pokefirered/tree/sbird_multichoice)
 
 This is simply a port of SBird's dynamic multichoice branch from pokeemerald. [See the documentation here for use](https://www.pokecommunity.com/threads/event-scripts-dynamic-multichoice.489984/). No need to credit me for this simple port, but make sure to credit SBird :)
 

@@ -73,6 +73,7 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - [debug_menu](https://ravepossum.github.io/#debug_menu)
 - [pokemon_debug_menu](https://ravepossum.github.io/#pokemon_debug_menu)
 - [battle_debug_menu](https://ravepossum.github.io/#battle_debug_menu)
+- [sbird_multichoice](https://ravepossum.github.io/#sbird_multichoice)
 
 ### [debug_suite](https://github.com/ravepossum/pokefirered/tree/debug_suite)
 - This includes all 3 debug menu branches listed below ported from [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion). Credits for all original functionality go to TheXaman and the contributors to pokeemerald-expansion in RHH. 
@@ -92,6 +93,10 @@ This page is a compilation of my open-source gen3/4 hacking work.
 - This is a port of RHH's pokeemerald-expansion battle debug menu, minus any Expansion-specific functionality. You can activate it by pressing Select in battle. You press Start to advance to the next battler (not L&R like Expansion because of the help system).
 
 ![battle_debug_demonstration](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/1421f327-be44-4b83-b17d-e6b38a6eb39d)
+
+#### [sbird_multichoice](https://github.com/ravepossum/pokefirered/tree/sbird_multichoice)
+
+This is simply a port of SBird's dynamic multichoice branch from pokeemerald. [See the documentation here for use](https://www.pokecommunity.com/threads/event-scripts-dynamic-multichoice.489984/). No need to credit me for this simple port, but make sure to credit SBird :)
 
 ## [pokeplatinum](https://github.com/ravepossum/pokeplatinum)
 - [enhancements](https://ravepossum.github.io/#enhancements)

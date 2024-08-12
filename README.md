@@ -47,9 +47,10 @@ This page is a compilation of my open-source gen3/4 hacking work.
 
 ## [pokeemerald-expansion](https://github.com/ravepossum/pokeemerald-expansion)
 - [bw_summary_screen_expansion](https://ravepossum.github.io/#bw_summary_screen_expansion)
+- [hgss_battle_ui_expansion](https://ravepossum.github.io/#hgss_battle_ui_expansion)
 - [hgss_dex_darkest_mode](https://ravepossum.github.io/#hgss_dex_darkest_mode)
 - [showmonpicshiny](https://ravepossum.github.io/#showmonpicshiny)
-
+  
 ### [bw_summary_screen_expansion](https://github.com/ravepossum/pokeemerald-expansion/wiki#bw_summary_screen_expansion)
 
 ![bwsummaryscreendemo1](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/a5806973-7ac5-451b-9973-65fd0187503f)
@@ -58,6 +59,14 @@ This page is a compilation of my open-source gen3/4 hacking work.
 
 - This is a demake of the Gen 5 summary screen with some extra configuration and features. Please see the wiki link in the header hyperlink above for more information and credits.
 - If you're using vanilla pokeemerald, you'll need to use [the vanilla version](https://ravepossum.github.io/#bw_summary_screen) instead.
+
+### [hgss_battle_ui_expansion](https://github.com/ravepossum/pokeemerald-expansion/wiki#hgss_battle_ui_expansion)
+
+![hgss_battle_ui](https://github.com/user-attachments/assets/c5e84c1e-e9c4-4bfb-85b5-2f180ebc2931)
+
+- This is a demake of HGSS's battle UI.
+- Single, double, and safari battles are all implemented.
+- All of the battle gimmicks in pokeemerald-expansion are implemented.
 
 ### [hgss_dex_darkest_mode](https://github.com/ravepossum/pokeemerald-expansion/tree/hgss_dex_darkest_mode)
 - This adds a *darkest* mode to the HGSS Pokedex and refactors the color modes of the HGSS dex to make it a bit easier to add new color schemes.

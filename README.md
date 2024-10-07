@@ -26,9 +26,9 @@ This page is a compilation of my open-source gen3/4 hacking work.
 
 ### [bw_summary_screen](https://github.com/ravepossum/pokeemerald/wiki#bw_summary_screen)
 
-![bwsummaryscreendemo1](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/a5806973-7ac5-451b-9973-65fd0187503f)
-![bwsummaryscreendemo2](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/fb9f562f-e693-432d-b4d5-16bd75c35ee4)
-![bwsummaryscreendemo3](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/3d5e6573-33c8-42db-9bef-c4d490bf9bef)
+![vanilla1](https://github.com/user-attachments/assets/5f4cd8ba-f2b8-431c-b4d7-07e64a1af018)
+![vanilla2](https://github.com/user-attachments/assets/caae93c3-1526-46fb-ac93-67bcd6175e57)
+![vanilla3](https://github.com/user-attachments/assets/7ddcba6a-583c-42ac-9fdb-63d1d17d0b36)
 
 - This is a demake of the Gen 5 summary screen with some extra configuration and features. Please see the wiki link in the header hyperlink above for more information and credits.
 - If you're using pokeemerald-expansion, you'll need to use [the expansion version](https://ravepossum.github.io/#bw_summary_screen_expansion) instead.
@@ -53,9 +53,9 @@ This page is a compilation of my open-source gen3/4 hacking work.
   
 ### [bw_summary_screen_expansion](https://github.com/ravepossum/pokeemerald-expansion/wiki#bw_summary_screen_expansion)
 
-![bwsummaryscreendemo1](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/a5806973-7ac5-451b-9973-65fd0187503f)
-![bwsummaryscreendemo2](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/fb9f562f-e693-432d-b4d5-16bd75c35ee4)
-![bwsummaryscreendemo3](https://github.com/ravepossum/ravepossum.github.io/assets/145081120/3d5e6573-33c8-42db-9bef-c4d490bf9bef)
+![newbwss1](https://github.com/user-attachments/assets/272512c2-4e08-4d35-863b-b58e223bc88a)
+![newbwss2](https://github.com/user-attachments/assets/f87d9d39-efaf-4d8e-a35f-5b0d77f69243)
+![newbwss3](https://github.com/user-attachments/assets/4d0f16d9-221f-4430-85d3-e3531049cdc9)
 
 - This is a demake of the Gen 5 summary screen with some extra configuration and features. Please see the wiki link in the header hyperlink above for more information and credits.
 - If you're using vanilla pokeemerald, you'll need to use [the vanilla version](https://ravepossum.github.io/#bw_summary_screen) instead.

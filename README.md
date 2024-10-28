@@ -108,10 +108,12 @@ This page is a compilation of my open-source gen3/4 hacking work.
 This is simply a port of SBird's dynamic multichoice branch from pokeemerald. [See the documentation here for use](https://www.pokecommunity.com/threads/event-scripts-dynamic-multichoice.489984/). No need to credit me for this simple port, but make sure to credit SBird :)
 
 ## [pokeplatinum](https://github.com/ravepossum/pokeplatinum)
-- [enhancements](https://ravepossum.github.io/#enhancements)
+- [debug_menu](https://ravepossum.github.io/#debug_menu)
   
-### [enhancements](https://github.com/ravepossum/pokeplatinum/tree/enhancements)
-- This is a *very* WIP branch for adding basic QoL enhancements to pokeplatinum.
+### [debug_menu](https://github.com/ravepossum/pokeplatinum/tree/debug_menu)
+- This is a WIP branch for adding a debug menu to pokeplatinum for testing.
+
+![pokeplatinum_debug_menu](https://github.com/user-attachments/assets/fb53e19b-4eaa-4f82-924d-c82f1ea0162a)
 
 # Other content
 
